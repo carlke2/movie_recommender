@@ -1,0 +1,21 @@
+title,genres,recommendation_score,average_rating,rating_count,final_score
+Spider-Man 2 (2004),Action|Adventure|Sci-Fi|IMAX,0.925,3.8,79.0,0.875
+Star Trek (2009),Action|Adventure|Sci-Fi|IMAX,0.925,3.86,59.0,0.873
+Avatar (2009),Action|Adventure|Sci-Fi|IMAX,0.925,3.6,97.0,0.871
+"Matrix Reloaded, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,0.926,3.35,96.0,0.861
+Captain America: The Winter Soldier (2014),Action|Adventure|Sci-Fi|IMAX,0.925,3.74,31.0,0.857
+Iron Man 2 (2010),Action|Adventure|Sci-Fi|Thriller|IMAX,0.926,3.51,47.0,0.855
+Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.842,4.23,251.0,0.854
+Star Trek Into Darkness (2013),Action|Adventure|Sci-Fi|IMAX,0.925,3.69,27.0,0.852
+Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX,0.925,3.16,92.0,0.852
+Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.842,4.22,211.0,0.85
+"Matrix Revolutions, The (2003)",Action|Adventure|Sci-Fi|Thriller|IMAX,0.926,3.15,79.0,0.85
+The Hunger Games: Catching Fire (2013),Action|Adventure|Sci-Fi|IMAX,0.925,3.63,26.0,0.85
+V for Vendetta (2006),Action|Sci-Fi|Thriller|IMAX,0.878,3.88,100.0,0.85
+Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.842,4.14,196.0,0.846
+Edge of Tomorrow (2014),Action|Sci-Fi|IMAX,0.878,3.98,44.0,0.839
+Pacific Rim (2013),Action|Adventure|Sci-Fi|IMAX,0.925,3.61,14.0,0.838
+"Amazing Spider-Man, The (2012)",Action|Adventure|Sci-Fi|IMAX,0.925,3.25,30.0,0.837
+Ender's Game (2013),Action|Adventure|Sci-Fi|IMAX,0.925,3.44,16.0,0.834
+Spider-Man 3 (2007),Action|Adventure|Sci-Fi|Thriller|IMAX,0.926,3.0,44.0,0.834
+Oblivion (2013),Action|Adventure|Sci-Fi|IMAX,0.925,3.3,20.0,0.832
