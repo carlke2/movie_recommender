@@ -1,4 +1,4 @@
-# Movie Recommender From Scratch
+# Movie Recommender 
 
 A beginner-friendly movie recommendation system built in Google Colab using Python, pandas, scikit-learn, and the MovieLens dataset.
 
